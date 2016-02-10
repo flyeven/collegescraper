@@ -7,10 +7,10 @@ This python code scrapes USNews pages for the top ranked Colleges and Universiti
 
 Dependencies:
 
-requests - for creating a web session which allows browsing and crawling web pages
-csv_utf8 - a csv reader/writer which allows utf8 encoding (uses csv, codecs, cStringIO)
-bs4 (aka BeautifulSoup) - for parsing web pages
-re - regex package for python
-wikipedia - small package for crawling wikipedia pages
+* requests - for creating a web session which allows browsing and crawling web pages
+* csv_utf8 - a csv reader/writer which allows utf8 encoding (uses csv, codecs, cStringIO)
+* bs4 (aka BeautifulSoup) - for parsing web pages
+* re - regex package for python
+* wikipedia - small package for crawling wikipedia pages
 
 Note: USNews data requires login credentials.
